@@ -26,3 +26,6 @@ and the dependency:
 	</dependency>
 ```
 
+# jitpack
+jitpack sample project
+
